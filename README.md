@@ -6,6 +6,9 @@ Refer to this README to determine the data set source and the corresponding usag
 
 
 Data Resources:
+
     * Open Street Map via the Overpass - API http://overpass-turbo.eu/#
+    
     * Country Stat - http://www.countrystat.org/Default.aspx
+    
     * Natural Earth - http://www.naturalearthdata.com/
