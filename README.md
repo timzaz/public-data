@@ -3,7 +3,7 @@ Collection of public data collected for use with RunwaySDK and Runway Geodashboa
 
 Each data set will have a corresponding README file which indicates the data set source and any other information that might be important. Refer to this README to determine the data set source and the corresponding usage licence before using. 
 
-Currently all data is in it's origin download form with no qa/qc or re-formatting. 
+* Currently all data is in it's origin download form with no qa/qc or re-formatting. 
 
 
 Data Resources:
